@@ -1,0 +1,17 @@
+/Users/selinyazici/dotnet/havadurumu/HavaDurumuApp/obj/Debug/net9.0/HavaDurumuApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selinyazici/dotnet/havadurumu/HavaDurumuApp/obj/Debug/net9.0/HavaDurumuApp.AssemblyInfoInputs.cache
+/Users/selinyazici/dotnet/havadurumu/HavaDurumuApp/obj/Debug/net9.0/HavaDurumuApp.AssemblyInfo.cs
+/Users/selinyazici/dotnet/havadurumu/HavaDurumuApp/obj/Debug/net9.0/HavaDurumuApp.csproj.CoreCompileInputs.cache
+/Users/selinyazici/dotnet/havadurumu/HavaDurumuApp/bin/Debug/net9.0/HavaDurumuApp
+/Users/selinyazici/dotnet/havadurumu/HavaDurumuApp/bin/Debug/net9.0/HavaDurumuApp.deps.json
+/Users/selinyazici/dotnet/havadurumu/HavaDurumuApp/bin/Debug/net9.0/HavaDurumuApp.runtimeconfig.json
+/Users/selinyazici/dotnet/havadurumu/HavaDurumuApp/bin/Debug/net9.0/HavaDurumuApp.dll
+/Users/selinyazici/dotnet/havadurumu/HavaDurumuApp/bin/Debug/net9.0/HavaDurumuApp.pdb
+/Users/selinyazici/dotnet/havadurumu/HavaDurumuApp/obj/Debug/net9.0/HavaDurumuApp.dll
+/Users/selinyazici/dotnet/havadurumu/HavaDurumuApp/obj/Debug/net9.0/refint/HavaDurumuApp.dll
+/Users/selinyazici/dotnet/havadurumu/HavaDurumuApp/obj/Debug/net9.0/HavaDurumuApp.pdb
+/Users/selinyazici/dotnet/havadurumu/HavaDurumuApp/obj/Debug/net9.0/HavaDurumuApp.genruntimeconfig.cache
+/Users/selinyazici/dotnet/havadurumu/HavaDurumuApp/obj/Debug/net9.0/ref/HavaDurumuApp.dll
+/Users/selinyazici/dotnet/havadurumu/HavaDurumuApp/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/selinyazici/dotnet/havadurumu/HavaDurumuApp/obj/Debug/net9.0/HavaDurumuApp.csproj.AssemblyReference.cache
+/Users/selinyazici/dotnet/havadurumu/HavaDurumuApp/obj/Debug/net9.0/HavaDuru.47640FB0.Up2Date
